@@ -1,0 +1,2 @@
+# RubberDucky
+Rubber Ducky payloads
